@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayanatid
-- 👀 I’m interested in financial markets, in particular trading and quantitative research.
-- 🌱 I’m currently learning R for a summer internship
+- 👀 I’m interested in back-end software development, financial markets, and quantitative research
+- 🌱 I’m currently working at Qwasar Silicon Valley as a Software Engineer
 - 📫 I can be reached at mayanatid@gmail.com
 
 <!---
