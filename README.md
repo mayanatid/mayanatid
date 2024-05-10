@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayanatid
-- 👀 I’m interested in back-end software development, financial markets, and quantitative research
-- 🌱 I’m currently working at Software Engineering and Quantitative Research Consultant at Future Spring Consulting
+- 👀 I’m interested in back-end software development, machine learning, and quantitative research
+- 🌱 I’m currently working as a Data and Analytics Engineer at Apple
 - 📫 I can be reached at mayanatid@gmail.com
 
 <!---
